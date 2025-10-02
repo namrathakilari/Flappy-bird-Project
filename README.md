@@ -44,6 +44,8 @@ flappy-bird-js/<br>
 2. Open the `index.html` file in your browser.
 3. Start playing!
 
+OR<br>
+Open index.html in a browser or use [GitHub Pages URL](https://YourUsername.github.io/floppy-bird/)Open index.html in a browser or use [GitHub Pages URL](https://YourUsername.github.io/floppy-bird/)
 ## Technologies Used
 -HTML5
 -CSS3
