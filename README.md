@@ -45,16 +45,17 @@ flappy-bird-js/<br>
 3. Start playing!
 
 OR<br>
-Open index.html in a browser or use [GitHub Pages URL](https://YourUsername.github.io/floppy-bird/)Open index.html in a browser or use [GitHub Pages URL](https://YourUsername.github.io/floppy-bird/)
+Use [GitHub Pages URL](https://YourUsername.github.io/floppy-bird/).
+
 ## Technologies Used
--HTML5
--CSS3
--JavaScript (Vanilla)
--HTML5 <canvas> API
+-HTML5<br>
+-CSS3<br>
+-JavaScript (Vanilla)<br>
+-HTML5 <canvas> API<br>
 
 ## Future Improvements
--Add sound effects
--Use bird and pipe images
--Mobile-friendly controls
--Add restart and pause buttons
--High score saving via localStorage
+-Add sound effects<br>
+-Use bird and pipe images<br>
+-Mobile-friendly controls<br>
+-Add restart and pause buttons<br>
+-High score saving via localStorage<br>
